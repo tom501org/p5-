@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+body {
+
+  background: #ffffff;
+  /* overflow: hidden; */
+}
+/* 
+
+.test{
+  height: 8000px;
+  background: rgb(32, 129, 255);
+} */
